@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+✉️ Email | lilylilyghost@gmail.com
+📞 Phone | 010-2442-5189
+
+https://github.com/anuraghazra/github-readme-stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyeon112&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
