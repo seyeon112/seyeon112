@@ -9,7 +9,7 @@
 
 **✉️Email |** lilylilyghost@gmail.com<br/>
 **🖥️Velog |** https://velog.io/@msylily/posts<br/>
-**📖Notion |** https://www.notion.so/23b279c66a864980afb749e0a0ef6d2c
+**📖Notion |** https://impartial-bell-586.notion.site/23b279c66a864980afb749e0a0ef6d2c?pvs=4
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
 
